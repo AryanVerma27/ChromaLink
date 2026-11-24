@@ -75,7 +75,6 @@ The LED response to each keystroke was effectively instantaneous at 9600 baud, a
 - Interrupt-driven, non-blocking serial I/O (NVIC, RXIFG/TXIFG)
 - Comparison of SPI, I²C, UART, CAN, LIN, RS-485, USB, Ethernet and wireless protocols
 
-## Authors
+## Author
 
-- **Shrinath Abhay Palwankar**
 - **Aryan Verma**
